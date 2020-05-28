@@ -1,1 +1,2 @@
 jinja2 < 3
+MarkupSafe < 2

@@ -3,6 +3,7 @@ pipeline:
     image: python:${PYTHON_VERSION}
     commands:
       - pip install .
+      - pip install -r dev-requirements.txt
       - make test
 
 matrix:

@@ -8,6 +8,6 @@ pipeline:
 
 matrix:
   PYTHON_VERSION:
-    - 3.7-alpine
+    - 3.7-stretch
 
 branches: [ master, pci_*, ci_* ]

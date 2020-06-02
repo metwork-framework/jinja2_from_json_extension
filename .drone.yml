@@ -2,8 +2,7 @@ pipeline:
   build:
     image: python:${PYTHON_VERSION}
     commands:
-      - pip install -r dev-requirements.txt
-      - python setup.py install
+      - pip install .
       - make test
 
 matrix:

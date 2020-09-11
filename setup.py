@@ -9,6 +9,7 @@ setup(
     name="jinja2_from_json_extension",
     version="0.0.1",
     license="BSD",
+    url="https://github.com/metwork-framework/jinja2_from_json_extension",
     packages=find_packages(),
     install_requires=install_requires
 )

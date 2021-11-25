@@ -6,7 +6,7 @@
 
 
 
-[![Drone CI](http://metwork-framework.org:8000/api/badges/metwork-framework/jinja2_from_json_extension/status.svg)](http://metwork-framework.org:8000/metwork-framework/jinja2_from_json_extension)
+[![GitHub CI](https://github.com/metwork-framework/jinja2_from_json_extension/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/jinja2_from_json_extension/actions?query=workflow%3ACI+branch%3Amaster)
 [![Maintenance](https://raw.githubusercontent.com/metwork-framework/resources/master/badges/maintained.svg)](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)
 
 

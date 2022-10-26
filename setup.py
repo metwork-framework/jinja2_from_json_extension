@@ -7,7 +7,7 @@ with open('requirements.txt') as reqs:
 
 setup(
     name="jinja2_from_json_extension",
-    version="0.0.2",
+    version="1.0.0",
     license="BSD",
     url="https://github.com/metwork-framework/jinja2_from_json_extension",
     packages=find_packages(),
